@@ -1,4 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+body{
+    background-color: hsl(220, 15%, 55%);
+}
 .card{
+    margin: auto;
     box-shadow: 0 px 4px 4px 0px rgbs(0,0,0,.2);
     border-radius: 5px;
+    width: 250px;
+    background-color: hsl(0, 0%, 100%);
+}
+.container{
+    padding: 5px 10px;
+    text-align: center;
+}
+.container h3{
+    font-weight: bold;
+}
+.container p{
+    color:rgb(127, 127, 127)
+}
+img{
+    border-radius: 5px;
+    width:90%;
 }
