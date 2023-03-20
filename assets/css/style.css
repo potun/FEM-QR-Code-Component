@@ -3,10 +3,10 @@
 
 *{
     font-family: "Outfit", sans-serif;
-    font-size: 15px;
+    font-size: 20px;
 }
 body{
-    background-color: hsl(220, 15%, 55%);
+    background-color: hsl(215, 46.4%, 89%);
     display: flex;
     align-items: center;
     justify-content: center;
